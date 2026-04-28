@@ -1,0 +1,18 @@
+.hero {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero button {
+  margin-top: 1.5rem;
+  padding: 0.8rem 1.5rem;
+  background: #3b82f6;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
