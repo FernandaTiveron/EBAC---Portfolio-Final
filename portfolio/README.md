@@ -1,16 +1,136 @@
-# React + Vite
+# 🌐 Portfólio - UX/UI Designer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é meu portfólio desenvolvido com React, com o objetivo de apresentar meus projetos, habilidades e experiências como UX/UI Designer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+- React
+- JavaScript (ES6+)
+- CSS Modules / CSS
+- Vite
+- Git & GitHub
+- Deploy: Vercel / Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📁 Estrutura do projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O projeto é organizado em componentes reutilizáveis:
+
+- Navbar
+- Hero
+- About
+- Projects
+- Contact
+
+Cada seção foi desenvolvida com foco em organização, responsividade e experiência do usuário.
+
+---
+
+## 💻 Como rodar o projeto localmente
+
+1. Clone o repositório:
+
+git clone https://github.com/FernandaTiveron/EBAC---Portfolio-Final
+
+2. Acesse a pasta do projeto:
+
+cd portfolio
+
+3. Instale as dependências:
+
+npm install
+
+4. Execute o projeto:
+
+npm run dev
+
+5. Acesse no navegador:
+
+http://localhost:5174
+
+---
+
+## 🌍 Deploy / Versão online
+
+O projeto está disponível online através de:
+
+https://github.com/FernandaTiveron/EBAC---Portfolio-Final
+
+---
+
+## 📌 Projetos apresentados
+
+### Portal de Viagens  
+Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End.  
+Tecnologias: React, UX/UI Design
+
+---
+
+### Estilo Livre  
+Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End.  
+Tecnologias: React, UX/UI Design
+
+---
+
+### Pet&Style  
+Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End.  
+Tecnologias: React, UX/UI Design
+
+---
+
+### IPSEG  
+Sistema de monitoramento com reconhecimento facial voltado para segurança e controle de acesso.  
+Tecnologias: React, UX/UI Design
+
+---
+
+### Na Fila Não  
+Plataforma de eventos com foco em experiência do usuário e fluxo simplificado de entrada.  
+Tecnologias: UX Design, UI Design
+
+---
+
+### App Coolab  
+Aplicativo voltado para conscientização e consumo responsável.  
+Tecnologias: Design de Produto, UX/UI
+
+---
+
+### Eliz&Tereza  
+Marca de vestuário feminino com foco em identidade visual e branding.  
+Tecnologias: Design Gráfico, UX/UI
+
+---
+
+### Capital MotoWeek  
+Projeto relacionado à experiência de eventos de grande porte.  
+Tecnologias: UX/UI, Design de Interface
+
+---
+
+### HIDDEN  
+Aplicativo de cadastramento facial para eventos de grande escala.  
+Tecnologias: UX/UI Design
+
+---
+
+## ✨ Sobre mim
+
+Sou UX/UI Designer com foco em criar experiências digitais claras, intuitivas e eficientes. Tenho experiência com design de interfaces, pesquisa de usuário e prototipação, além de estar em constante evolução no desenvolvimento front-end.
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://linkedin.com/in/seu-perfil
+- GitHub: https://github.com/seu-usuario
+- Email: seuemail@email.com
+
+---
+
+## ⚡ Objetivo
+
+Este portfólio foi desenvolvido para demonstrar minha evolução técnica e criativa, além de reunir meus principais projetos de forma organizada e profissional.

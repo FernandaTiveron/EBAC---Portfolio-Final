@@ -1,3 +1,6 @@
+import viagens from "../assets/viagens.png";
+import estilolivre from "../assets/estilolivre.png";
+import petstyle from "../assets/petstyle.png";
 import ipseg from "../assets/ipseg.png";
 import nafilanao from "../assets/nafilanao.png";
 import appcoolab from "../assets/appcoolab.png";
@@ -6,6 +9,27 @@ import hidden from "../assets/hidden.png";
 import cmw from "../assets/cmw.png";
 
 export const projects = [
+  {
+    title: "Portal de Viagens",
+    description: "Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End",
+    image: viagens,
+    tech: ["React", "UX/UI"],
+    link: "https://github.com/FernandaTiveron/portal-viagens",
+  },
+  {
+    title: "Barbearia Estilo Libre",
+    description: "Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End",
+    image: estilolivre,
+    tech: ["UX", "UI"],
+     link: "https://github.com/FernandaTiveron/Vs-Code---Barbearia-Estilo-Libre",
+  },
+  {
+    title: "Pet Style",
+    description: "Projeto desenvovido no curso da EBAC para Formação de Desenvolvedor Front-End",
+    image: petstyle,
+    tech: ["Design"],
+     link: "https://github.com/FernandaTiveron/VS-Code---Pet-Style",
+  },
   {
     title: "IPSEG",
     description: "Sistema de monitoramento com reconhecimento facial.",
