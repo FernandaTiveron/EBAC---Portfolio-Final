@@ -125,9 +125,9 @@ Sou UX/UI Designer com foco em criar experiências digitais claras, intuitivas e
 
 ## 📬 Contato
 
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- GitHub: https://github.com/seu-usuario
-- Email: seuemail@email.com
+- LinkedIn: https://www.linkedin.com/in/fernanda-tiveron/
+- GitHub: https://github.com/FernandaTiveron
+- Email: ftiveron@hotmail.com
 
 ---
 
